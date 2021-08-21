@@ -9,7 +9,6 @@
 #winequality-white with 4898 instances and 12 variables
 
 # variables:
-# Input variables :
 
 #1 - fixed acidity
 
