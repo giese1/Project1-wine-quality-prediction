@@ -1,6 +1,6 @@
 # Project1-wine-quality-prediction
 
-#This is a data science project with the main objective to use machine learning to predict wine quality based on 11 predecessor variables
+#This is a data science project using R with the main objective to use machine learning to predict wine quality based on 11 predecessor variables
 
 #there are two datasets in this project:
 
