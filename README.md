@@ -9,7 +9,7 @@
 #winequality-white with 4898 instances and 12 variables
 
 # variables:
-# Input variables (based on physicochemical tests):
+# Input variables :
  #1 - fixed acidity
  #2 - volatile acidity
  #3 - citric acid
